@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2EB117D0-4665-4AB9-BFDB-94120A9FB25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreeterConsoleApp", "GreeterConsoleApp\GreeterConsoleApp.csproj", "{A1F206CE-F84F-4524-B3A3-C247D30E41B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB117D0-4665-4AB9-BFDB-94120A9FB25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB117D0-4665-4AB9-BFDB-94120A9FB25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB117D0-4665-4AB9-BFDB-94120A9FB25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB117D0-4665-4AB9-BFDB-94120A9FB25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F206CE-F84F-4524-B3A3-C247D30E41B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F206CE-F84F-4524-B3A3-C247D30E41B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F206CE-F84F-4524-B3A3-C247D30E41B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F206CE-F84F-4524-B3A3-C247D30E41B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F118F8-F59D-4CB3-85AC-99AB2E2F405B}
+	EndGlobalSection
+EndGlobal
